@@ -11,4 +11,4 @@ How to contribute:
 //Add your names below by following the above steps
 project contributors:
 1. oginni joseph olumuyiwa
-2. preciour seun
+2. ayegbusi oluwaseun precious.
